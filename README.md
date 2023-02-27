@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Hi, I'm Yann. I am currently in web development and accessibility training at O'Clock.
+I have developed sites and application for a few years, it is a passion that I learned in self -taught.
+This training allows me to consolidate my knowledge as well as to learn new concepts.
+
 <!--
 **yannletouzey/yannletouzey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
