@@ -2,7 +2,7 @@
 
 I'm Yann. 
 I am currently in web development and accessibility training at O'Clock.
-I have developed sites and applications for a few years, it is a passion that I learned in self -taught.
+I have developed sites and applications for a few years, it is a passion that I learned in self-taught.
 This training allows me to consolidate my knowledge as well as to learn new concepts.
 
 ### Languages and tools
