@@ -1,7 +1,7 @@
 ### Hi 👋
 
 I'm [Yann](https://yannletouzey.github.io)
-I am currently in web development and accessibility training at [<img src="img/logo-full.svg" alt="Logo OClock" class="logo-oclock" height="15px">](https://oclock.io/). 
+I am currently in web development and accessibility training at [<img src="img/logo-full.svg" alt="Logo OClock" class="logo-oclock" height="15px">](https://oclock.io/).   
 I have developed sites and applications for a few years, it is a passion that I learned in self-taught.
 This training allows me to consolidate my knowledge as well as to learn new concepts.
 
