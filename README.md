@@ -17,4 +17,5 @@ This training allows me to consolidate my knowledge as well as to learn new conc
 ### Contact
 
 - [LinkedIn](https://www.linkedin.com/in/yann-letouzey-84374524b/)
+
 ![IMG](./img/animate_letters_yann.gif)
