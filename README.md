@@ -2,7 +2,7 @@
 
 Je suis [Yann](https://yannletouzey.github.io),
 Actuellement en formation développement web et accessibilité chez [<img src="img/logo-full.svg" alt="Logo OClock" class="logo-oclock" height="15px">](https://oclock.io/).   
-Je développe des sites et des applications web depuis quelques années. C'est une passion que j'ai appris en autodidacte.<br>
+Je développe des sites et applications web depuis quelques années. C'est une passion que j'ai appris en autodidacte.<br>
 Cette formation me permet de consolider mes connaissances ainsi que d'apprendre de nouvelles notions.
 
 ### Langages et outils
