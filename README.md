@@ -13,7 +13,7 @@ afin consolider mes connaissances ainsi que d'apprendre de nouvelles notions.
 
 
 <ul>
-    <li><a href="https://www.statistiques-covid.com" target="_blank" rel="noopener noreferrer">Yann Letouzey</a></li>
+    <li><a href="https://yannletouzey.github.io" target="_blank" rel="noopener noreferrer">Yann Letouzey</a></li>
     <li><a href="https://statistiques-covid.com" target="_blank" rel="noopener noreferrer">Statistiques-covid</a></li>
     <li><a href="https://cardiac-cohesion.vercel.app" target="_blank" rel="noopener noreferrer">Cardiac Cohesion</a></li>
     <li><a href="https://visual-padding-margin-css.vercel.app" target="_blank" rel="noopener noreferrer">Visual margin padding</a></li>
