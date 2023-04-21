@@ -11,7 +11,7 @@ afin consolider mes connaissances ainsi que d'apprendre de nouvelles notions.
 
 ### Mes websites
 
-- [Yann Letouzey](https://yannletouzey.github.io)
+- [Yann Letouzey](https://yannletouzey.github.io){:target="_blank"}
 - [Statistiques-covid](https://statistiques-covid.com)
 - [Cardiac Cohesion](https://cardiac-cohesion.vercel.app)
 - [Visual margin padding](https://visual-padding-margin-css.vercel.app)
