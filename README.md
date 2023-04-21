@@ -12,8 +12,7 @@ afin consolider mes connaissances ainsi que d'apprendre de nouvelles notions.
 ### Mes websites
 
 
-<a href="https://www.statistiques-covid.com" target="_blank" rel="noopener noreferrer">www.statistiques-covid.com</a>
-- [Yann Letouzey](https://yannletouzey.github.io){:target="_blank"}
+<ul><li><a href="https://www.statistiques-covid.com" target="_blank" rel="noopener noreferrer">Yann Letouzey</a></li></ul>
 - [Statistiques-covid](https://statistiques-covid.com)
 - [Cardiac Cohesion](https://cardiac-cohesion.vercel.app)
 - [Visual margin padding](https://visual-padding-margin-css.vercel.app)
