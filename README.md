@@ -13,10 +13,10 @@ afin consolider mes connaissances ainsi que d'apprendre de nouvelles technologie
 
 
 <ul>
-    <li><a href="https://yannletouzey.github.io" target="_blank" rel="noopener noreferrer">Yann Letouzey</a></li>
-    <li><a href="https://statistiques-covid.com" target="_blank" rel="noopener noreferrer">Statistiques-covid</a></li>
-    <li><a href="https://cardiac-cohesion.vercel.app" target="_blank" rel="noopener noreferrer">Cardiac Cohesion</a></li>
-    <li><a href="https://visual-padding-margin-css.vercel.app" target="_blank" rel="noopener noreferrer">Visual margin padding</a></li>
+    <li><a href="https://yannletouzey.github.io" target="_blank" rel="noopener noreferrer">yannletouzey.github.io</a></li>
+    <li><a href="https://statistiques-covid.com" target="_blank" rel="noopener noreferrer">statistiques-covid.com</a></li>
+    <li><a href="https://cardiac-cohesion.vercel.app" target="_blank" rel="noopener noreferrer">cardiac-cohesion.vercel.app</a></li>
+    <li><a href="https://visual-padding-margin-css.vercel.app" target="_blank" rel="noopener noreferrer">visual-padding-margin-css.vercel.app</a></li>
 </ul>
 
 ### Contact
