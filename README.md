@@ -14,7 +14,7 @@ afin consolider mes connaissances ainsi que d'apprendre de nouvelles technologie
 
 <ul>
     <li><a href="https://yannletouzey.github.io" target="_blank" rel="noopener noreferrer">yannletouzey.github.io</a></li>
-    <li><a href="https://cube-in-cube.vercel.app/" target="_blank" rel="noopener noreferrer">bounce-ball.vercel.app</a></li>
+    <li><a href="https://cube-in-cube.vercel.app/" target="_blank" rel="noopener noreferrer">cube-in-cube.vercel.app</a></li>
     <li><a href="https://bounce-ball.vercel.app" target="_blank" rel="noopener noreferrer">bounce-ball.vercel.app</a></li>
     <li><a href="https://bounce-cube.vercel.app/" target="_blank" rel="noopener noreferrer">bounce-cube.vercel.app</a></li>
     <li><a href="https://statistiques-covid.com" target="_blank" rel="noopener noreferrer">statistiques-covid.com</a></li>
