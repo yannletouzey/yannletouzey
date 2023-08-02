@@ -1,8 +1,7 @@
 ### Hello
 
 Moi c'est [Yann](https://yann-letouzey.com),   
-
-Je développe des sites et applications web depuis quelques années.   
+  
 Actuellement en formation développement web et accessibilité chez [<img src="img/logo-full.svg" alt="Logo OClock" class="logo-oclock" height="15px">](https://oclock.io/).
 afin consolider mes connaissances ainsi que d'apprendre de nouvelles technologies.   
 
