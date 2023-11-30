@@ -4,7 +4,7 @@ Moi c'est [Yann](https://yann-letouzey.com),
 
 Super developpeur web
 
-J'aime autant le back-end que le front-end, un peu full-stack du coup. 
+Gros penchant pour le back-end mais j'aime aussi le front-end, un peu full-stack du coup. 
 
 Une petite formation développement web et accessibilité chez [<img src="img/logo-full.svg" alt="Logo OClock" class="logo-oclock" height="15px">](https://oclock.io/) de 1 an, afin de consolidé mes connaissances et apprendre de nouvelles technologies. 
 
