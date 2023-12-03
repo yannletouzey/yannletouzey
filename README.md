@@ -1,6 +1,6 @@
 ### Hello
 
-Moi c'est [Yann](https://yann-letouzey.com),   
+Moi c'est [Yann](http://yannletouzey.fr),   
 
 Super developpeur web
 
