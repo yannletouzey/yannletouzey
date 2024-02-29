@@ -2,7 +2,7 @@
 
 Moi c'est [Yann](https://yannletouzey.com),   
 
-Super developpeur web
+Developpeur web
 
 Gros penchant pour le back-end mais j'aime aussi le front-end, un peu full-stack du coup. 
 
