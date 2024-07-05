@@ -15,7 +15,7 @@ Pour le reste, autodidacte depuis quelques années.
 
 ### Quelques projets
 <ul>
-    <li><a href="https://yannletouzey.com" target="_blank" rel="noopener noreferrer">yannletouzey.com</a></li>
+    <li><a href="https://yannletouzey.fr" target="_blank" rel="noopener noreferrer">yannletouzey.fr</a></li>
     <li><a href="https://cube-in-cube.vercel.app/" target="_blank" rel="noopener noreferrer">cube-in-cube.vercel.app</a></li>
     <li><a href="https://bounce-ball.vercel.app" target="_blank" rel="noopener noreferrer">bounce-ball.vercel.app</a></li>
     <li><a href="https://bounce-cube.vercel.app/" target="_blank" rel="noopener noreferrer">bounce-cube.vercel.app</a></li>
