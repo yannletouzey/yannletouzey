@@ -1,14 +1,8 @@
-### Hello
+### Hello 👋
 
 Moi c'est [Yann](https://yannletouzey.com),   
 
-Developpeur web
-
-Gros penchant pour le back-end mais j'aime aussi le front-end, un peu full-stack du coup. 
-
-Une petite formation développement web et accessibilité chez [<img src="img/logo-full.svg" alt="Logo OClock" class="logo-oclock" height="15px">](https://oclock.io/) de 1 an, afin de consolidé mes connaissances et apprendre de nouvelles technologies. 
-
-Pour le reste, autodidacte depuis quelques années.   
+Apprenti dev web.  
 
 ### Quelques langages et outils
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="20px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="20px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="20px"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" width="20px" bg-color="#fff"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="20px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="20px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="20px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="20px"/> <img src="./img/blender.png" width="25px" />
