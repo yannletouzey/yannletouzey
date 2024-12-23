@@ -1,6 +1,6 @@
-### Hello 👋
+## Hello world 👋
 
-Moi c'est [Yann](https://yannletouzey.com),   
+Moi c'est [Yann](https://yannletouzey.fr),   
 
 Un peu de dev web à temps perdu. 
 
